@@ -1,0 +1,44 @@
+body {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    background: #F1F3E0;
+    font-family: 'Courier new', 'sans-serif';
+}
+
+header {
+    color: #778873;
+    margin: 5px;
+    padding: 1px 40px;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+span {
+    color: #7FB77E;
+}
+
+div {
+    font-size: 16px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.ribs,
+.quesadilla,
+.pie {
+    background-color: #778873;
+    color: #D2DCB6;
+    opacity: 0.6;
+    display: inline-block;
+    border-radius: 7px;
+    text-decoration: none;
+    padding: 20px 15px;
+    margin: 3px;
+    text-align: center;
+    
+}
+
+
